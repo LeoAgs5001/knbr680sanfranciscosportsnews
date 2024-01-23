@@ -1,0 +1,446 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="page-description">
+    <meta name="keywords" content="Hockey" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dallas is home for Jordie Benn</title>
+    <link rel="author" href="humans.txt" />
+
+    <!-- Disable tap highlight on IE -->
+    <meta name="msapplication-tap-highlight" content="no">
+
+    <!-- Progressive Web App -->
+    <meta name="theme-color" content="white">
+    <link rel="manifest" href="/manifest.json">
+
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="/images/icons/desktop/android-chrome-192x192.png">
+    <link rel="icon" sizes="512x512" href="/images/icons/desktop/android-chrome-512x512.png">
+
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="A zUIx website">
+    <link rel="apple-touch-icon-precomposed" href="/images/icons/desktop/apple-touch-icon.png">
+    <link rel="mask-icon" href="/images/icons/desktop/safari-pinned-tab.svg" color="#5bbad5">
+
+    <!-- Tile color for Windows -->
+    <meta name="msapplication-TileImage" content="/images/icons/desktop/mstile-150x150.png">
+    <meta name="msapplication-TileColor" content="#ffc40d">
+
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/icons/desktop/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/icons/desktop/favicon-16x16.png">
+
+    <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
+    <!--
+    <link rel="canonical" href="https://www.example.com/">
+    -->
+
+    <link rel="preload" as="style" href="/css/fla/flex-layout-attribute.min.css" />
+    <link rel="stylesheet" href="/css/fla/flex-layout-attribute.min.css" />
+    <link rel="preload" as="style" href="/css/animate.min.css" />
+    <link rel="stylesheet" href="/css/animate.min.css" />
+
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="">
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/icon?family=Material+Icons&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons&display=swap">
+
+
+
+
+    <!-- zuix.js https://github.com/zuixjs/zuix -->
+    <link rel="preload" as="script" href="/js/zuix/zuix.min.js">
+    <link rel="preload" as="script" href="/config.js">
+    <link rel="preload" as="script" href="/js/zuix/animate-css.js">
+    <script src="/js/zuix/zuix.min.js"></script>
+    <script src="/config.js"></script>
+    <script src="/js/zuix/animate-css.js"></script>
+
+<style>
+:root {
+    --primary-color: #000;
+    --accent-color: deeppink;
+    --background-color: #ffffff;
+    --header-color: #1765bd;
+    --header-background-color: rgba(248,248,248,1);
+}
+body {
+    min-height: 100vh;
+    margin: 0;
+    font-size: 14px;
+    font-family: Helvetica, sans-serif;
+    background: var(--background-color);
+    overflow-x: hidden;
+}
+main {
+    overflow-x: hidden;
+    width: 100%;
+}
+a {
+    text-decoration: none!important;
+    color: var(--accent-color);
+}
+
+p {
+    font-size: 150%;
+    line-height: 140%;
+    font-family: serif;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+p code {
+    opacity: 0.8;
+    font-size: 85%!important;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    line-height: 160%;
+    margin-bottom: 8px;
+}
+li pre {
+    line-height: 100%;
+}
+h1,h2 {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+h1 {
+    font-size: 220%;
+    font-weight: 700;
+}
+h2 {
+    opacity: 0.8;
+    font-size:160%;
+    font-weight: 700;
+    line-height: 36px;
+}
+h3 {
+    opacity: 0.6;
+    font-size:140%;
+    font-weight: 700;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+h4 {
+    opacity: 0.6;
+}
+h5 {
+    opacity: 0.6;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    color:gray;
+}
+
+blockquote {
+    opacity: 50%;
+}
+
+header {
+    width: 100%;
+    color: var(--header-color);
+    text-shadow:
+            3px 3px 0 rgba(0,0,0,5%),
+            -1px -1px 0 rgba(0,0,0,5%),
+            1px -1px 0 rgba(0,0,0,5%),
+            -1px 1px 0 rgba(0,0,0,5%),
+            1px 1px 0 rgba(0,0,0,5%);
+}
+header a,header a:visited {
+    color: var(--header-color);
+}
+header h1 {
+    margin: 0;
+}
+header .material-icons {
+    font-size: 280%;
+    opacity: 0.5;
+}
+footer {
+    width: 100%;
+/*    color: #FFF59D; */
+}
+footer a {
+/*    color: white; */
+    font-size:110%;
+}
+
+li small {
+    font-family: Helvetica, sans-serif;
+    font-size: 60%;
+    font-weight: 600;
+    margin-left: 6px;
+    text-transform: uppercase;
+    opacity: 0.5;
+}
+pre {
+    margin-top: 24px!important;
+    margin-bottom: 24px!important;
+    max-width: 100%;
+}
+code {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+pre[class*="language-"] {
+    font-size: 120%;
+}
+
+pre code {
+    color: darkgreen;
+    font-size: 100%;
+    line-height: 140%;
+}
+
+ul.list {
+    margin-top: 0;
+}
+ul.list li {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    display: inline-block;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    background-image: linear-gradient(180deg,#fff,#f5f5fa);
+    transition: all .2s ease-out;
+}
+button:hover, button:active {
+    background: rgba(180,180,180,0.1)!important;
+    box-shadow: inset 0 0 0 2px rgb(37 44 97 / 9%), 0 0 0 0 rgb(93 100 148 / 7%);
+}
+
+.header-cover {
+    padding: 8px;
+    height: 64px;
+    background: var(--header-background-color);
+    border-bottom: solid 1px rgba(0,0,0,0.25);
+    box-shadow: 0 5px 2px -2px rgba(100,100,100,0.15);
+}
+.main-content {
+    padding: 24px 8px 48px;
+    color:  black;
+}
+
+.title {
+    padding: 8px;
+    /*
+    max-width: calc(100vw - 72px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+     */
+}
+.image-cover {
+    width: 100%;
+    height: auto;
+    max-width: 960px;
+}
+
+/* responsive */
+
+@media only screen and (max-width: 640px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+
+</style>
+
+</head>
+
+
+
+
+<body layout="column top-center">
+
+
+    <img class="image-cover" src="http://tinyurl.com/25acha7t">
+
+
+<h1 class="title animate__animated animate__fadeIn">Dallas is home for Jordie Benn</h1>
+
+    <div self="size-large" layout="column top-stretch" style="padding-right: 12px;padding-left: 12px">
+        <small>30 Sep 2023</small>
+    </div>
+
+
+<main self="size-large center" class="main-content animate__animated animate__fadeIn" layout="column top-stretch">
+
+    <h1>Hockey</h1>
+<p class="p1">Wearing a Stars jersey at training camp again means the world to the veteran defenseman.</p>
+<p class="p1">When Jordie Benn was presented with a professional tryout contract from the Stars and a chance to participate in training camp, he quickly seized the opportunity.</p>
+<p class="p1">That shouldn&rsquo;t come as a surprise given the defenseman's special connection to the franchise and the city since he began his NHL career with Dallas and played 302 games there over six seasons.</p>
+<p class="p1">His brother, Jamie, has also served as the Stars&rsquo; captain since September 2013, and his wife, Jessica, is a native Texan, so returning to the Lone Star State was always on his wish list.</p>
+<p class="p1">&ldquo;We definitely did our due diligence to see what was out there, but Dallas is home, so we wanted to jump on it. It&rsquo;s kind of cool. It&rsquo;s come full-circle,&rdquo; said Benn, who played for the CHL&rsquo;s Allen Americans and AHL&rsquo;s Texas Stars before making the jump to the NHL. &ldquo;Just to be back in a place I&rsquo;m comfortable with, in my house, and the family&rsquo;s happy, it&rsquo;s been a lot of fun.&rdquo;</p>
+<p class="p1">Benn, 36, has certainly moved around since his previous stay with the Stars ended in February 2017 with a trade to the Canadiens. There were also stints with the Canucks, Jets, Wild, and most recently the Maple Leafs last year.</p>
+<p class="p1">But, there was always something about &ldquo;Big D&rdquo; that kept him wanting to come back.</p>
+<p class="p1">&ldquo;It&rsquo;s just the people here. Everybody&rsquo;s so nice,&rdquo; said Benn, who has continuously spent his offseasons in the city. &ldquo;The weather&rsquo;s unreal, too. It gets a little hot in the summer, but you&rsquo;re not dealing with winter. I brought a Texas girl to some pretty cold places, so it&rsquo;s nice that we might not have to experience -25 degree temperatures this year.&rdquo;</p>
+<p class="p1">That will, of course, depend on if and where the veteran of 607 games ultimately fits in the Stars&rsquo; plans.</p>
+<p class="p1">Benn isn&rsquo;t putting any additional pressure on himself under the circumstances, though, choosing instead to embrace the journey.</p>
+<p class="p1">&ldquo;I feel really good, my body feels really good, and I had a really good summer. It&rsquo;s about knocking some rust off in the preseason like everybody&rsquo;s doing and just going from there,&rdquo; said Benn. &ldquo;My approach to camp is the same as every year, just be in the best shape I possibly can, keep an open mind, work hard, and let the cards fall where they may.&rdquo;</p>
+<p class="p1">Regardless of what happens next, sporting the same colors as Jamie again has been a thrill.</p>
+<p class="p1">He genuinely appreciates the experience.</p>
+<p class="p1">&ldquo;We started out together, and to be back in a Dallas Stars jersey on the ice with him is special,&rdquo; shared Benn. &ldquo;Driving to the rink together, it also takes us back. It&rsquo;s just some good laughs and old stories. He&rsquo;s my brother, but it&rsquo;s like hanging out with your best friend every day.&rdquo;</p>
+<p class="p1">Sharing these incredible moments with Jessica and their children, Billie Ann and Boone, has been a treat as well.</p>
+<p class="p1">It&rsquo;s a family affair.</p>
+<p class="p1">&ldquo;My kids obviously weren&rsquo;t around yet when I was playing here, so I show them old pictures. I still have team photos and programs with my face on it. They know the Dallas Stars as Uncle Jamie&rsquo;s team, so it&rsquo;s fun to tell them that Dad used to play for the Stars, too,&rdquo; mentioned Benn. &ldquo;They came out to the rink a few times in the summer before camp started. Every day when I&rsquo;m leaving for the rink, my daughter&rsquo;s asking me when she can come bang on the glass at a game. They love just being around and watching Dad play hockey.&rdquo;</p>
+<p class="p1">Billie Ann might be in luck soon enough as the Stars play two exhibition contests at American Airlines Center this coming week with matchups against the Avalanche on Tuesday and the Blues on Thursday.</p>
+<p class="p1">If Benn does suit up on home ice, he&rsquo;ll undoubtedly be fired up for the occasion&hellip; because along with playing in front of his biggest supporters, he genuinely loves this organization.</p>
+<p class="p1">&ldquo;I&rsquo;ve watched these guys in the playoffs and I bring my family to the games. I&rsquo;m a hockey player, but I&rsquo;m still a fan of the Dallas Stars as well. My brother plays here, so obviously when we get the chance, we&rsquo;re going to go watch Uncle Jamie play in the playoffs,&rdquo; concluded Benn. &ldquo;Over the years, they&rsquo;ve had a special group and they&rsquo;ve added some really good key components to this team, and you can feel it in the dressing room. They&rsquo;ve got something special going on here.&rdquo;</p>
+
+
+    
+
+
+
+
+<div layout="row center-spread" style="margin-top: 56px; margin-bottom: 56px; padding-left: 8px; padding-right: 8px; font-size: 140%">
+
+    
+    <a href="/pages/hockey/article1/" style="text-align: center">
+        <img src="https://picsum.photos/seed/hockey!article1/320/240" class="navigation-image" width="128" height="72">
+        <div class="navigation-title">Article1</div>
+        <div layout="row center-center">
+            <i class="material-icons">arrow_left</i>&nbsp;
+            <span style="padding-right: 24px">Previous</span>
+        </div>
+    </a>
+    
+
+    
+    <div>&nbsp;</div>
+    
+
+</div>
+<style>
+    .navigation-image {
+        border-radius: 32px;
+        border-color: rgba(100,200,200,0.5);
+    }
+    .navigation-title {
+        margin: 8px;
+        opacity: 0.6;
+        color: darkgreen;
+        font-size: 80%;
+        max-width: 200px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+</style>
+
+
+
+    <!--
+// TODO: List of related pages
+-->
+
+
+</main>
+
+<div z-load="@lib/components/menu-overlay" z-context="actions-menu" z-lazy="false" class="visible-on-ready">
+<div #items>    <button onclick="closeContent()" style="height:42px;"><span>Close</span><i class="material-icons"> close</i></button>
+</div>
+  <!-- custom open/close menu button -->
+  <div #menu_button>
+    <a class="circle-button" href="javascript:;" title="Open menu" >
+      <i class="material-icons">toc</i>
+    </a>
+  </div>
+  <div #menu_button_close>
+    <a class="circle-button" href="javascript:;" title="Close menu" >
+      <i class="material-icons">close</i>
+    </a>
+  </div>
+</div>
+<script>
+function navigateTo(anchor) {
+  const target = zuix.$.find('a[name="' + anchor + '"]');
+  scrollHelper.scrollTo(target, 300);
+}
+</script>
+
+
+<footer self="size-large" layout="columns center-center" style="min-height: 80px">
+
+    
+
+</footer>
+
+
+
+
+<!-- Built with love using zUIx Web Starter -->
+
+
+
+</body>
+
+<!-- page script -->
+<script>
+    function closeContent() {
+  if (window.parent.closeContentFrame) {
+    window.parent.closeContentFrame(location);
+  } else {
+    location.href = '../../../home';
+  }
+}
+function shareContent() {
+  const item = {
+    title: document.title,
+    text: document.querySelector('meta[name="description"]').content,
+    url: document.location.href
+  };
+  if (navigator.share) {
+    navigator.share(item).then(() => {
+      console.log('Document url shared.');
+    }).catch(console.error);
+  } else {
+    console.log(item);
+    console.log('Sharing is not available in the current context');
+  }
+}
+function printContent() {
+  window.print();
+}
+
+document.body.addEventListener('keyup', function(e) {
+  if (e.key === 'Escape') {
+    const actionMenu = zuix.context('actions-menu');
+    if (!actionMenu || !actionMenu.showing()) {
+      closeContent();
+    }
+  }
+});
+
+const history = window.history;
+if (history && history.pushState) {
+  history.pushState('back-detect', null, '#open');
+  window.onpopstate = function() {
+    closeContent();
+  };
+}
+
+</script>
+
+
+</html>
+
