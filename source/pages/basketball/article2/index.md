@@ -3,16 +3,18 @@ layout: basic.liquid
 tags: basketball
 group: basketball
 
-title: Article2
+title: Wembanyama has a rough debut at Madison Square Garden as the Knicks rout the Spurs 126-105
 description: Page description
-imageCover: https://picsum.photos/seed/basketball!article2/960/640
-imagePreview: https://picsum.photos/seed/basketball!article2/640/560
-imagePreviewMini: https://picsum.photos/seed/basketball!article2/320/240
-pubDate: 2024-01-22 06:23:59
+imageCover: http://tinyurl.com/2v3sawhs
+imagePreview: http://tinyurl.com/2v3sawhs
+imagePreviewMini: http://tinyurl.com/2v3sawhs
+pubDate: 2023-12-05 04:59:15
 keywords:
-- Article2
+- NBA
 ---
 
-# Article2
+# NBA New York Knicks
 
-It works! =)
+<p>Victor Wembanyama saw the retired jerseys, soaked in the atmosphere and quickly understood why his coach and so many others told him Madison Square Garden was the best place to play basketball.<br />&ldquo;I think no matter how many times I will play here, it will always be special,&rdquo; Wembanyama said.<br />And it will surely get better.<br />The No. 1 draft pick's first game at the famed arena was one of the worst of his young career, as he managed just one basket in the first three quarters of the New York Knicks' 126-105 victory over the San Antonio Spurs on Wednesday night.<br />The 7-foot-3 Wembanyama missed his first seven shots and had more airballs (2) than field goals through three quarters, when the Knicks led by as much as 30 points. He was in danger of failing to reach double figures for the first time before scoring eight points in the fourth to finish with 14 on 4-for-14 shooting.<br />Jalen Brunson scored 25 points for the Knicks (4-4), who won their second consecutive game. RJ Barrett added 24 points and six assists, while Julius Randle had 23 points and 16 rebounds.<br />Immanuel Quickley scored 19 off the bench and Mitchell Robinson spearheaded the strong defensive effort on Wembanyama with eight points and 12 rebounds.<br />Wembanyama, who came in leading NBA rookies with 19.4 points per game, grabbed nine rebounds but missed all four 3-point attempts. He got some nice cheers beforehand and then late in the game, but also some jeers during it.<br />&ldquo;You have a 19-year-old rookie who is just learning about the NBA. Of course it&rsquo;s a learning experience,&rdquo; San Antonio coach Gregg Popovich said.<br />Jeremy Sochan had 16 points and six rebounds for the Spurs. Two nights after losing 152-111 in Indiana, they were down big most of the way and dropped their third straight.<br />When they arrived Wednesday for their morning shootaround, Popovich told some of his players they were in the best arena to play basketball, which is the same thing Wembanyama had heard &mdash; though he said MSG wasn&rsquo;t as big as he expected.<br />It still holds nearly 20,000 fans and the crowd got awfully loud when Wembanyama threw up two airballs during his dreadful first half.<br />Brunson said the Knicks blocked out the hype surrounding Wembanyama's arrival for a nationally televised matchup.<br />&ldquo;Obviously this place is amazing, ... the history, all that stuff,&rdquo; Brunson said. &ldquo;I think just for us, we just focus on what we can control and that&rsquo;s sticking together and trying to be the best team we can be.&rdquo;<br />Wembanyama took and missed the Spurs&rsquo; first three shots, a pair of 3-pointers sandwiched around a 10-footer that fell short of the rim. Those struggles helped spark the Knicks&rsquo; fast start, and it was 13-0 before the Spurs made their first shot.<br />It was 33-16 after one and grew to 42-21 after Wembanyama took another shot that failed to reach the basket, this one from behind the arc. The Knicks eventually recovered the ball and Quickley drove for a layup, celebrating afterward along the sideline with Knicks superfan Spike Lee.<br />The lead ballooned to 99-70 when Quickley stole the ball from Wembanyama and fed Isaiah Hartenstein for a dunk. Moments later there were chants of &ldquo;Overrated! Overrated!&rdquo; after a frustrated Wembanyama took a swipe at Quickley after he was fouled.<br />Devin Vassell returned after missing the previous two games with a strained left adductor and had four points. Popovich said before the game he expected the San Antonio guard would also miss this game.</p>
+
+

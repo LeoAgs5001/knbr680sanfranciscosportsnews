@@ -3,16 +3,16 @@ layout: basic.liquid
 tags: hockey
 group: hockey
 
-title: Article1
+title: Necas scores another OT winner as Hurricanes beat Sabres 3-2
 description: Page description
-imageCover: https://picsum.photos/seed/hockey!article1/960/640
-imagePreview: https://picsum.photos/seed/hockey!article1/640/560
-imagePreviewMini: https://picsum.photos/seed/hockey!article1/320/240
-pubDate: 2024-01-22 06:22:44
+imageCover: http://tinyurl.com/25acha7t
+imagePreview: http://tinyurl.com/25acha7t
+imagePreviewMini: http://tinyurl.com/25acha7t
+pubDate: 2023-11-08 05:00:26
 keywords:
-- Article1
+- NHL
 ---
 
-# Article1
+# NHL Buffalo Sabres
 
-It works! =)
+<p>Martin Necas scored his second overtime winner of the season, converting 90 seconds into the extra session as the Carolina Hurricanes beat the Buffalo Sabres 3-2 on Tuesday night.<br />Necas redirected the puck from near the crease. He also scored in overtime Oct. 26 against Seattle and has nine career OT goals &mdash; six in the past two seasons.<br />His latest winner came after the Sabres had possession of the puck for most of the first minute in overtime.<br />&ldquo;We got the puck and they were tired out there,&rdquo; Necas said.<br />Carolina defensemen Tony DeAngelo and Brady Skjei scored in regulation to help the Hurricanes win for the fifth time in six games &mdash; with three of those wins coming in overtime. Skjei also had an assist and Antti Raanta made 20 saves, including two early in OT.<br />The Hurricanes are 5-0 in games extending beyond regulation this season, going 4-0 in overtime and winning once in a shootout. Since last December, Carolina has won 10 straight regular-season games decided in overtime to tie for the second-longest streak in NHL history.<br />Alex Tuch and Rasmus Dahlin scored Buffalo&rsquo;s goals. Ukko-Pekka Luukkonen stopped 24 shots.<br />&ldquo;I thought we locked it down defensively to get the point, at least,&rdquo; Luukkonen said.<br />Necas&rsquo; fifth goal of the season came off the second assist of the game for Sebastian Aho.<br />&ldquo;Talented players seem to find ways to make things happen,&rdquo; Carolina coach Rod Brind&rsquo;Amour said.<br />Aho delivered the pass from the left side. Necas did the rest, moving within one of matching Aho&rsquo;s franchise record for overtime goals.<br />&ldquo;When it&rsquo;s going well, you feel comfortable and confident,&rdquo; Necas said. &ldquo;I like it.&rdquo;<br />Aho and Skjei share the team lead with eight assists apiece.<br />Less than 90 seconds after Skjei&rsquo;s go-ahead goal off a pass from Aho in the third period, the Sabres tied it at 9:23 on Dahlin&rsquo;s power-play goal. It was just the fifth power-play goal of the season for Buffalo.<br />The Hurricanes have power-play goals in five consecutive games after DeAngelo converted unassisted in the first period. Now all Carolina defensemen have at least one goal this season.<br />The Sabres pulled even at 1 in the second when Tuch turned a Carolina turnover into an unassisted goal. He has three goals in the past two games.<br />Raanta has half of Carolina&rsquo;s eight wins this season. His workload is expected to increase after Monday&rsquo;s announcement that goalie Frederik Andersen is out indefinitely because of a blood-clotting issue.<br />&ldquo;He was solid tonight and that&rsquo;s what we need,&rdquo; Brind&rsquo;Amour said.<br />Buffalo is 1-8-2 in its last 11 road games against Carolina.<br />&ldquo;What a great atmosphere this is,&rdquo; Sabres coach Don Granato said. &ldquo;It has a real playoff-atmosphere feel of intensity, and I thought our guys responded very well to it, to the point that there&rsquo;s a bigger taste in their mouth.&rdquo;</p>
